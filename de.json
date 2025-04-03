@@ -9,7 +9,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Creamy croquettes made with Jamón 100% Ibérico acorn feed. Served with Romesco."
+        "description": "Cremige Kroketten mit 100% ibérico Eichelmast-Schinken. Serviert mit Romesco."
     },
     {
         "id": "2",
@@ -21,7 +21,7 @@
         "seafood": false,
         "vegan": true,
         "meat": false,
-        "description": "Creamy and crispy croquettes made with local mushrooms, portobello and black truffle. Served with Romesco."
+        "description": "Cremige und knusprige Kroketten mit lokalen Pilzen, Portobello und schwarzem Trüffel. Serviert mit Romesco."
     },
     {
         "id": "3",
@@ -33,7 +33,7 @@
         "seafood": false,
         "vegan": true,
         "meat": false,
-        "description": "Grilled padron peppers imported from Galicia, Spain. Served with garlic chips."
+        "description": "Gegrillte Padrón-Paprika aus Galicien, Spanien. Serviert mit Knoblauchchips."
     },
     {
         "id": "4",
@@ -45,7 +45,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Classic Spanish potato omelet with onion (optional}, made with farm eggs and organic potatoes. Topped with Chorizo ibérico (optional}, and served with Romesco."
+        "description": "Klassisches spanisches Kartoffel-Omelett mit Zwiebeln (optional), hergestellt aus Hofeiern und Bio-Kartoffeln. Mit Chorizo ibérico (optional) garniert und mit Romesco serviert."
     },
     {
         "id": "5",
@@ -57,7 +57,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Refreshing Andalusian tomato cold soup. Served with chopped vegetables and egg, crispy jamón dust (optional) and garlic-parsley oil."
+        "description": "Erfrischende andalusische kalte Tomatensuppe. Serviert mit gehacktem Gemüse und Ei, knusprigem Schinkenstaub (optional) und Knoblauch-Petersilien-Öl."
     },
     {
         "id": "6",
@@ -69,7 +69,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Grilled galician octopus tentacle over potato foam. Served with smoked paprika, and green oil."
+        "description": "Gegrillter galicischer Oktopusarm auf Kartoffelschaum. Serviert mit geräucherter Paprika und grünem Öl."
     },
     {
         "id": "7",
@@ -81,7 +81,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Sauteed shrimps in olive oil, garlic and cayenne pepper, flambeed with white wine and served with garlic chips."
+        "description": "In Olivenöl, Knoblauch und Cayennepfeffer angebratene Garnelen, mit Weißwein flambiert und mit Knoblauchchips serviert."
     },
     {
         "id": "8",
@@ -93,7 +93,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Crispy triple cooked potatoes served with homemade aioli, and our special spicy bava sauce."
+        "description": "Knusprige, dreifach gebratene Kartoffeln, serviert mit hausgemachter Aioli und unserer speziellen scharfen Bava-Sauce."
     },
     {
         "id": "9",
@@ -105,7 +105,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Crispy pork belly confirmed in jamón ibérico lard, with honey mustard sauce. Served with sweet Spanish piquillo peppers and crispy onions."
+        "description": "Knuspriger Schweinebauch, in ibérico-Schinkenschmalz gegart, mit Honig-Senf-Sauce. Serviert mit süßen spanischen Piquillo-Paprika und knusprigen Zwiebeln."
     },
     {
         "id": "10",
@@ -117,7 +117,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Fried crispy baby squid in tempura with black ink mayo and aioli. Served with local 'chamuan' leaves and calamansi mandarin."
+        "description": "Frittierte knusprige Baby-Tintenfische in Tempura mit schwarzer Tinten-Mayonnaise und Aioli. Serviert mit lokalen 'Chamuan'-Blättern und Calamansi-Mandarine."
     },
     {
         "id": "11",
@@ -129,7 +129,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "2 Soft tortilla tacos with crispy soft shell crab, guacamole, mango-corn salsa, pickle onion & kimchi mayo."
+        "description": "2 weiche Tortilla-Tacos mit knusprigem Weichschalen-Krebs, Guacamole, Mango-Mais-Salsa, eingelegten Zwiebeln und Kimchi-Mayonnaise."
     },
     {
         "id": "12",
@@ -141,7 +141,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Spanish broken eggs with potato in 2 textures, ”Chistorra” (Chorizo from navarra) flambeed in cyder, served with fried eggs."
+        "description": "Spanische zerbrochene Eier mit Kartoffeln in zwei Texturen, 'Chistorra' (Chorizo aus Navarra), in Apfelwein flambiert, serviert mit Spiegeleiern."
     },
     {
         "id": "13",
@@ -153,7 +153,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Grilled Atlantic sardines imported from the north of Spain, served with burnt lime."
+        "description": "Gegrillte atlantische Sardinen aus Nordspanien, serviert mit verbrannter Limette."
     },
     {
         "id": "14",
@@ -165,7 +165,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Crispy chicken breaded with cornflakes and kimchi mayo, a—beef smash burger with melted cheddar, onion jam, and Big Mac sauce.(2pcs)"
+        "description": "Knuspriges Hähnchen, paniert mit Cornflakes und Kimchi-Mayonnaise, sowie ein Rindfleisch-Smash-Burger mit geschmolzenem Cheddar, Zwiebelmarmelade und Big-Mac-Sauce. (2 Stück)"
     },
     {
         "id": "15",
@@ -177,7 +177,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Jamón Ibérico acorn feed 36 months of maturation hand cut. Served with olive, tomaquet, crusty bread and Arbequina olive oil"
+        "description": "Jamón Ibérico Eichelmast, 36 Monate gereift, handgeschnitten. Serviert mit Oliven, Tomaquet, knusprigem Brot und Arbequina-Olivenöl."
     },
     {
         "id": "16",
@@ -189,7 +189,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Chorizo ibérico with 36 months maturation. Served with crusty bread, tomaquet, olives and Arbequina olive oil"
+        "description": "Chorizo ibérico mit 36 Monaten Reifung. Serviert mit knusprigem Brot, Tomaquet, Oliven und Arbequina-Olivenöl."
     },
     {
         "id": "17",
@@ -201,7 +201,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Spanish salami ibérico with 36 months of maturation. Served with crusty bread, olives, tomaquet and Arbequina olive oil."
+        "description": "Spanische Salami ibérico mit 36 Monaten Reifung. Serviert mit knusprigem Brot, Oliven, Tomaquet und Arbequina-Olivenöl."
     },
     {
         "id": "18",
@@ -213,7 +213,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Semi-cured Manchego cheese cured for 2 months. Served with Quince paste, walnuts, dried figs, grapes and crusty bread with Arbequina olive oil."
+        "description": "Halb gereifter Manchego-Käse, 2 Monate gereift. Serviert mit Quittenpaste, Walnüssen, getrockneten Feigen, Trauben und knusprigem Brot mit Arbequina-Olivenöl."
     },
     {
         "id": "19",
@@ -225,7 +225,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A selection os Spanish ibérico cold cuts with 36months maturation: jamón ibérico, chorizo ibérico, salchichón ibérico and Manchegos cheese semi cured. Served with grapes, walnuts, quince Paste, olives, dried figs and crusty bread."
+        "description": "Eine Auswahl an spanischen ibérico Aufschnitten mit 36 Monaten Reifung: Jamón ibérico, Chorizo ibérico, Salchichón ibérico und halb gereifter Manchego-Käse. Serviert mit Trauben, Walnüssen, Quittenpaste, Oliven, getrockneten Feigen und knusprigem Brot."
     },
     {
         "id": "20",
@@ -237,7 +237,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Seared yellowfin tuna loin, sesame crusted, with mixed greens, mango, avocado, sundried tomatoes, and our sesame Asian dressing"
+        "description": "Angebratene Gelbflossen-Thunfischlende, mit Sesamkruste, gemischtem Grün, Mango, Avocado, sonnengetrockneten Tomaten und unserem asiatischen Sesam-Dressing."
     },
     {
         "id": "21",
@@ -249,7 +249,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Fresh mozzarella cheese, homemade pesto sauce, fresh tomatoes, homemade balsamic glaze, fresh basil and Extra virgin oil. Served with mixed salad and salt flakes."
+        "description": "Frischer Mozzarella-Käse, hausgemachte Pesto-Sauce, frische Tomaten, hausgemachter Balsamico-Glasur, frischem Basilikum und extra nativem Olivenöl. Serviert mit gemischtem Salat und Salzflocken."
     },
     {
         "id": "22",
@@ -261,7 +261,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Thin-crust pizza with San Marzano tomatoes, fresh mozzarella, sun-dried tomatoes, balsamic glaze, Jamon Serrano gran reserva, basil and confited onions."
+        "description": "Dünnkrustenpizza mit San-Marzano-Tomaten, frischem Mozzarella, sonnengetrockneten Tomaten, Balsamico-Glasur, Jamón Serrano Gran Reserva, Basilikum und karamellisierten Zwiebeln."
     },
     {
         "id": "23",
@@ -273,7 +273,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Thin-crust pizza, with San Marzano tomatoes, Goat cheese, Chorizo Iberico, and red wine onion jam."
+        "description": "Dünnkrustenpizza mit San-Marzano-Tomaten, Ziegenkäse, Chorizo Ibérico und Rotwein-Zwiebelmarmelade."
     },
     {
         "id": "24",
@@ -285,7 +285,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Thin-crust pizzas, with San Marzano tomatoes, fresh mozzarella, black olives, mushrooms, braised ham, crushed pistachios, and pesto."
+        "description": "Dünnkrustenpizzen mit San-Marzano-Tomaten, frischem Mozzarella, schwarzen Oliven, Pilzen, geschmortem Schinken, zerstoßenen Pistazien und Pesto."
     },
     {
         "id": "25",
@@ -297,7 +297,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Tomato sauce, manchego cheese, fresh mozzarella di bufala, ‘’Pisto Manchego’’ (Spanish ratatouille}, with cherry tomatoes, asparagus, mushrooms and black olives."
+        "description": "Tomatensauce, Manchego-Käse, frischer Mozzarella di Bufala, 'Pisto Manchego' (spanisches Ratatouille) mit Kirschtomaten, Spargel, Pilzen und schwarzen Oliven."
     },
     {
         "id": "26",
@@ -309,7 +309,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Thin-crust pizzas with San Marzano tomatoes, fresh buffalo mozzarella, and basil"
+        "description": "Dünnkrustenpizzen mit San-Marzano-Tomaten, frischem Büffelmozzarella und Basilikum."
     },
     {
         "id": "27",
@@ -321,7 +321,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Spanish bomba rice, saffron, seafood and fish stock, local and imported seafood. Made with socarrat upon request."
+        "description": "Spanischer Bomba-Reis, Safran, Meeresfrüchte und Fischfond, lokale und importierte Meeresfrüchte. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "28",
@@ -333,7 +333,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Spanish bomba rice, saffron, seafood and fish stock, local and imported seafood. Made with socarrat upon request."
+        "description": "Spanischer Bomba-Reis, Safran, Meeresfrüchte und Fischfond, lokale und importierte Meeresfrüchte. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "29",
@@ -345,7 +345,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Creamy Catalan style creamy black rice with ink squid, Galician grilled octopus tentacle, and seafood, served with aioli. Made with socarrat upon request."
+        "description": "Cremiger schwarzer Reis im katalanischen Stil mit Tintenfischtinte, gegrilltem galicischen Oktopusarm und Meeresfrüchten, serviert mit Aioli. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "30",
@@ -357,7 +357,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Creamy Catalan style creamy black rice with ink squid, Galician grilled octopus tentacle, and seafood, served with aioli. Made with socarrat upon request."
+        "description": "Cremiger schwarzer Reis im katalanischen Stil mit Tintenfischtinte, gegrilltem galicischen Oktopusarm und Meeresfrüchten, serviert mit Aioli. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "31",
@@ -369,7 +369,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A non-traditional rice with chistorra, Chorizo Iberico, chicken wings, and pork ribs, served with aioli and mead with meat broth. Made with socarrat upon request."
+        "description": "Ein unkonventioneller Reis mit Chistorra, Chorizo Ibérico, Hähnchenflügeln und Schweinerippchen, serviert mit Aioli und Met mit Fleischbrühe. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "32",
@@ -381,7 +381,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A non-traditional rice with chistorra, Chorizo Iberico, chicken wings, and pork ribs, served with aioli and mead with meat broth. Made with socarrat upon request."
+        "description": "Ein unkonventioneller Reis mit Chistorra, Chorizo Ibérico, Hähnchenflügeln und Schweinerippchen, serviert mit Aioli und Met mit Fleischbrühe. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "33",
@@ -393,7 +393,7 @@
         "seafood": false,
         "vegan": true,
         "meat": false,
-        "description": "A light vegetarian/vegan option made with vegetable broth. Made with socarrat upon request."
+        "description": "Eine leichte vegetarische/vegane Option mit Gemüsebrühe. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "34",
@@ -405,7 +405,7 @@
         "seafood": false,
         "vegan": true,
         "meat": false,
-        "description": "A light vegetarian/vegan option made with vegetable broth. Made with socarrat upon request."
+        "description": "Eine leichte vegetarische/vegane Option mit Gemüsebrühe. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "35",
@@ -417,7 +417,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "250 gr Australian Wagyu Ribeye MBS3 cooked to your point, served with a side dish and sauce of your choice. *SAUCES: Black Pepper Red wine & dark chocolate Truffle Sauce Honey mustard Chimichurri *SIDES: Mashed potatoes Fried potatoes Green Salad Sauteed Vegetables"
+        "description": "250 g australisches Wagyu-Ribeye MBS3, nach deinem Wunsch gegart, serviert mit einer Beilage und Sauce deiner Wahl. *Saucen: Schwarzer Pfeffer, Rotwein & dunkle Schokolade, Trüffelsauce, Honig-Senf, Chimichurri *Beilagen: Kartoffelpüree, Bratkartoffeln, grüner Salat, gedünstetes Gemüse"
     },
     {
         "id": "36",
@@ -429,7 +429,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Wild catch of the day by local fishermen delivered directly to our beach. We served grilled with a side dish and style of your choice. 550.- Sides: Mashed potatoes, fried potatoes, green salad, or grilled vegetables. Choose your style: ‘’japanese’’with Miso-Sake and leek veloute ‘’thai’’ with ‘’neung manao’’ *Limited availability*"
+        "description": "Wildfang des Tages von lokalen Fischern, direkt an unseren Strand geliefert. Gegrillt serviert mit einer Beilage und Stil deiner Wahl. 550.- Beilagen: Kartoffelpüree, Bratkartoffeln, grüner Salat oder gegrilltes Gemüse. Wähle deinen Stil: 'Japanisch' mit Miso-Sake und Lauchvelouté, 'Thailändisch' mit 'Neung Manao' *Begrenzte Verfügbarkeit*"
     },
     {
         "id": "37",
@@ -441,7 +441,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Spanish churros with cinnamon and sugar coated, served with hot chocolate sauce."
+        "description": "Spanische Churros mit Zimt und Zucker überzogen, serviert mit heißer Schokoladensauce."
     },
     {
         "id": "38",
@@ -453,7 +453,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Caramelized soaked brioche, served with ice cream and mango coulis."
+        "description": "Karamellisierte eingeweichte Brioche, serviert mit Eiscreme und Mangocoulis."
     },
     {
         "id": "35",
@@ -465,7 +465,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "250 gr Australian Wagyu Ribeye MBS3 cooked to your point, served with a side dish and sauce of your choice. *SAUCES: Black Pepper Red wine & dark chocolate Truffle Sauce Honey mustard Chimichurri *SIDES: Mashed potatoes Fried potatoes Green Salad Sauteed Vegetables"
+        "description": "250 g australisches Wagyu-Ribeye MBS3, nach deinem Wunsch gegart, serviert mit einer Beilage und Sauce deiner Wahl. *Saucen: Schwarzer Pfeffer, Rotwein & dunkle Schokolade, Trüffelsauce, Honig-Senf, Chimichurri *Beilagen: Kartoffelpüree, Bratkartoffeln, grüner Salat, gedünstetes Gemüse"
     },
     {
         "id": "31",
@@ -477,7 +477,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A non-traditional rice with chistorra, Chorizo Iberico, chicken wings, and pork ribs, served with aioli and mead with meat broth. Made with socarrat upon request."
+        "description": "Ein unkonventioneller Reis mit Chistorra, Chorizo Ibérico, Hähnchenflügeln und Schweinerippchen, serviert mit Aioli und Met mit Fleischbrühe. Auf Wunsch mit Socarrat zubereitet."
     },
     {
         "id": "23",
@@ -489,7 +489,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Thin-crust pizza, with San Marzano tomatoes, Goat cheese, Chorizo Iberico, and red wine onion jam."
+        "description": "Dünnkrustenpizza mit San-Marzano-Tomaten, Ziegenkäse, Chorizo Ibérico und Rotwein-Zwiebelmarmelade."
     },
     {
         "id": "7",
@@ -501,7 +501,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Sauteed shrimps in olive oil, garlic and cayenne pepper, flambeed with white wine and served with garlic chips."
+        "description": "In Olivenöl, Knoblauch und Cayennepfeffer angebratene Garnelen, mit Weißwein flambiert und mit Knoblauchchips serviert."
     },
     {
         "id": "19",
@@ -513,7 +513,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A selection os Spanish ibérico cold cuts with 36months maturation: jamón ibérico, chorizo ibérico, salchichón ibérico and Manchegos cheese semi cured. Served with grapes, walnuts, quince Paste, olives, dried figs and crusty bread."
+        "description": "Eine Auswahl an spanischen ibérico Aufschnitten mit 36 Monaten Reifung: Jamón ibérico, Chorizo ibérico, Salchichón ibérico und halb gereifter Manchego-Käse. Serviert mit Trauben, Walnüssen, Quittenpaste, Oliven, getrockneten Feigen und knusprigem Brot."
     },
     {
         "id": "5",
@@ -525,6 +525,6 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Refreshing Andalusian tomato cold soup. Served with chopped vegetables and egg, crispy jamón dust (optional) and garlic-parsley oil."
+        "description": "Erfrischende andalusische kalte Tomatensuppe. Serviert mit gehacktem Gemüse und Ei, knusprigem Schinkenstaub (optional) und Knoblauch-Petersilien-Öl."
     }
 ]

@@ -9,7 +9,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Creamy croquettes made with Jamón 100% Ibérico acorn feed. Served with Romesco."
+        "description": "קרוקטים קרמיים עשויים עם חמון 100% איבריקו מזון בלוטים. מוגש עם רומסקו."
     },
     {
         "id": "2",
@@ -21,7 +21,7 @@
         "seafood": false,
         "vegan": true,
         "meat": false,
-        "description": "Creamy and crispy croquettes made with local mushrooms, portobello and black truffle. Served with Romesco."
+        "description": "קרוקטים קרמיים ופריכים עשויים עם פטריות מקומיות, פורטובלו וטרפל שחור. מוגש עם רומסקו."
     },
     {
         "id": "3",
@@ -33,7 +33,7 @@
         "seafood": false,
         "vegan": true,
         "meat": false,
-        "description": "Grilled padron peppers imported from Galicia, Spain. Served with garlic chips."
+        "description": "פלפלי פדרון צלויים מיובאים מגליסיה, ספרד. מוגש עם שבבי שום."
     },
     {
         "id": "4",
@@ -45,7 +45,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Classic Spanish potato omelet with onion (optional}, made with farm eggs and organic potatoes. Topped with Chorizo ibérico (optional}, and served with Romesco."
+        "description": "אומלט תפוחי אדמה ספרדי קלאסי עם בצל (אופציונלי), עשוי מביצי חווה ותפוחי אדמה אורגניים. מעליו חוריזו איבריקו (אופציונלי), ומוגש עם רומסקו."
     },
     {
         "id": "5",
@@ -57,7 +57,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Refreshing Andalusian tomato cold soup. Served with chopped vegetables and egg, crispy jamón dust (optional) and garlic-parsley oil."
+        "description": "מרק עגבניות אנדלוסי מרענן וקר. מוגש עם ירקות קצוצים וביצה, אבקת חמון פריכה (אופציונלי) ושמן שום-פטרוזיליה."
     },
     {
         "id": "6",
@@ -69,7 +69,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Grilled galician octopus tentacle over potato foam. Served with smoked paprika, and green oil."
+        "description": "זרוע תמנון גליסיאני צלוי מעל קצף תפוחי אדמה. מוגש עם פפריקה מעושנת ושמן ירוק."
     },
     {
         "id": "7",
@@ -81,7 +81,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Sauteed shrimps in olive oil, garlic and cayenne pepper, flambeed with white wine and served with garlic chips."
+        "description": "שרימפס מוקפצים בשמן זית, שום ופלפל קאיין, מופלמבים ביין לבן ומוגשים עם שבבי שום."
     },
     {
         "id": "8",
@@ -93,7 +93,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Crispy triple cooked potatoes served with homemade aioli, and our special spicy bava sauce."
+        "description": "תפוחי אדמה פריכים מבושלים שלוש פעמים, מוגשים עם איולי תוצרת בית ורוטב באווה חריף מיוחד שלנו."
     },
     {
         "id": "9",
@@ -105,7 +105,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Crispy pork belly confirmed in jamón ibérico lard, with honey mustard sauce. Served with sweet Spanish piquillo peppers and crispy onions."
+        "description": "בטן חזיר פריכה שבושלה בלארד חמון איבריקו, עם רוטב חרדל דבש. מוגש עם פלפלים פיקיו ספרדיים מתוקים ובצל פריך."
     },
     {
         "id": "10",
@@ -117,7 +117,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Fried crispy baby squid in tempura with black ink mayo and aioli. Served with local 'chamuan' leaves and calamansi mandarin."
+        "description": "דיונונים קטנים פריכים מטוגנים בטמפורה עם מיונז דיו שחור ואיולי. מוגש עם עלי 'צ'מואן' מקומיים ומנדרינה קלמנסי."
     },
     {
         "id": "11",
@@ -129,7 +129,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "2 Soft tortilla tacos with crispy soft shell crab, guacamole, mango-corn salsa, pickle onion & kimchi mayo."
+        "description": "2 טאקוס טורטייה רכים עם סרטן קליפה רכה פריך, גוואקמולי, סלסת מנגו-תירס, בצל כבוש ומיונז קימצ'י."
     },
     {
         "id": "12",
@@ -141,7 +141,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Spanish broken eggs with potato in 2 textures, ”Chistorra” (Chorizo from navarra) flambeed in cyder, served with fried eggs."
+        "description": "ביצים שבורות ספרדיות עם תפוחי אדמה בשתי מרקמות, 'צ'יסטורה' (חוריזו מנווארה) מופלמב בסיידר, מוגש עם ביצים מטוגנות."
     },
     {
         "id": "13",
@@ -153,7 +153,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Grilled Atlantic sardines imported from the north of Spain, served with burnt lime."
+        "description": "סרדינים אטלנטיים צלויים מיובאים מצפון ספרד, מוגשים עם ליים שרוף."
     },
     {
         "id": "14",
@@ -165,7 +165,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Crispy chicken breaded with cornflakes and kimchi mayo, a—beef smash burger with melted cheddar, onion jam, and Big Mac sauce.(2pcs)"
+        "description": "עוף פריך מצופה בקורנפלקס ומיונז קימצ'י, ובורגר סמאש בקר עם גבינת צ'דר מותכת, ריבת בצל ורוטב ביג מק. (2 יחידות)"
     },
     {
         "id": "15",
@@ -177,7 +177,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Jamón Ibérico acorn feed 36 months of maturation hand cut. Served with olive, tomaquet, crusty bread and Arbequina olive oil"
+        "description": "חמון איבריקו מזון בלוטים עם 36 חודשי התבגרות, חתוך ביד. מוגש עם זיתים, טומאקט, לחם קריספי ושמן זית ארבקינה."
     },
     {
         "id": "16",
@@ -189,7 +189,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Chorizo ibérico with 36 months maturation. Served with crusty bread, tomaquet, olives and Arbequina olive oil"
+        "description": "חוריזו איבריקו עם 36 חודשי התבגרות. מוגש עם לחם קריספי, טומאקט, זיתים ושמן זית ארבקינה."
     },
     {
         "id": "17",
@@ -201,7 +201,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Spanish salami ibérico with 36 months of maturation. Served with crusty bread, olives, tomaquet and Arbequina olive oil."
+        "description": "סלמי ספרדי איבריקו עם 36 חודשי התבגרות. מוגש עם לחם קריספי, זיתים, טומאקט ושמן זית ארבקינה."
     },
     {
         "id": "18",
@@ -213,7 +213,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Semi-cured Manchego cheese cured for 2 months. Served with Quince paste, walnuts, dried figs, grapes and crusty bread with Arbequina olive oil."
+        "description": "גבינת מנצ'גו חצי-מיושנת שהתבגרה 2 חודשים. מוגש עם מחית חבושים, אגוזי מלך, תאנים מיובשות, ענבים ולחם קריספי עם שמן זית ארבקינה."
     },
     {
         "id": "19",
@@ -225,7 +225,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A selection os Spanish ibérico cold cuts with 36months maturation: jamón ibérico, chorizo ibérico, salchichón ibérico and Manchegos cheese semi cured. Served with grapes, walnuts, quince Paste, olives, dried figs and crusty bread."
+        "description": "מבחר נקניקים קרים ספרדיים איבריקו עם 36 חודשי התבגרות: חמון איבריקו, חוריזו איבריקו, סלצ'יצ'ון איבריקו וגבינת מנצ'גו חצי-מיושנת. מוגש עם ענבים, אגוזי מלך, מחית חבושים, זיתים, תאנים מיובשות ולחם קריספי."
     },
     {
         "id": "20",
@@ -237,7 +237,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Seared yellowfin tuna loin, sesame crusted, with mixed greens, mango, avocado, sundried tomatoes, and our sesame Asian dressing"
+        "description": "נתח טונה צהובת-סנפיר צרוב, מצופה שומשום, עם ירקות מעורבים, מנגו, אבוקדו, עגבניות מיובשות בשמש ורוטב אסייתי עם שומשום."
     },
     {
         "id": "21",
@@ -249,7 +249,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Fresh mozzarella cheese, homemade pesto sauce, fresh tomatoes, homemade balsamic glaze, fresh basil and Extra virgin oil. Served with mixed salad and salt flakes."
+        "description": "גבינת מוצרלה טרייה, רוטב פסטו תוצרת בית, עגבניות טריות, זיגוג בלסמי תוצרת בית, בזיליקום טרי ושמן זית כתית מעולה. מוגש עם סלט מעורב ופתיתי מלח."
     },
     {
         "id": "22",
@@ -261,7 +261,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Thin-crust pizza with San Marzano tomatoes, fresh mozzarella, sun-dried tomatoes, balsamic glaze, Jamon Serrano gran reserva, basil and confited onions."
+        "description": "פיצה דקה עם עגבניות סן מרצאנו, מוצרלה טרייה, עגבניות מיובשות בשמש, זיגוג בלסמי, חמון סראנו גראן רזרבה, בזיליקום ובצל קונפי."
     },
     {
         "id": "23",
@@ -273,7 +273,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Thin-crust pizza, with San Marzano tomatoes, Goat cheese, Chorizo Iberico, and red wine onion jam."
+        "description": "פיצה דקה עם עגבניות סן מרצאנו, גבינת עזים, חוריזו איבריקו וריבת בצל ביין אדום."
     },
     {
         "id": "24",
@@ -285,7 +285,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Thin-crust pizzas, with San Marzano tomatoes, fresh mozzarella, black olives, mushrooms, braised ham, crushed pistachios, and pesto."
+        "description": "פיצות דקות עם עגבניות סן מרצאנו, מוצרלה טרייה, זיתים שחורים, פטריות, חזיר מבושל, פיסטוקים כתושים ופסטו."
     },
     {
         "id": "25",
@@ -297,7 +297,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Tomato sauce, manchego cheese, fresh mozzarella di bufala, ‘’Pisto Manchego’’ (Spanish ratatouille}, with cherry tomatoes, asparagus, mushrooms and black olives."
+        "description": "רוטב עגבניות, גבינת מנצ'גו, מוצרלה די בופאלו טרייה, 'פיסטו מנצ'גו' (רטטוי ספרדי), עם עגבניות צ'רי, אספרגוס, פטריות וזיתים שחורים."
     },
     {
         "id": "26",
@@ -309,7 +309,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Thin-crust pizzas with San Marzano tomatoes, fresh buffalo mozzarella, and basil"
+        "description": "פיצות דקות עם עגבניות סן מרצאנו, מוצרלה בופאלו טרייה ובזיליקום."
     },
     {
         "id": "27",
@@ -321,7 +321,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Spanish bomba rice, saffron, seafood and fish stock, local and imported seafood. Made with socarrat upon request."
+        "description": "אורז בומבה ספרדי, זעפרן, פירות ים ומרק דגים, פירות ים מקומיים ומיובאים. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "28",
@@ -333,7 +333,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Spanish bomba rice, saffron, seafood and fish stock, local and imported seafood. Made with socarrat upon request."
+        "description": "אורז בומבה ספרדי, זעפרן, פירות ים ומרק דגים, פירות ים מקומיים ומיובאים. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "29",
@@ -345,7 +345,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Creamy Catalan style creamy black rice with ink squid, Galician grilled octopus tentacle, and seafood, served with aioli. Made with socarrat upon request."
+        "description": "אורז שחור קרמי בסגנון קטלוני עם דיו קלמארי, זרוע תמנון גליסיאני צלוי ופירות ים, מוגש עם איולי. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "30",
@@ -357,7 +357,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Creamy Catalan style creamy black rice with ink squid, Galician grilled octopus tentacle, and seafood, served with aioli. Made with socarrat upon request."
+        "description": "אורז שחור קרמי בסגנון קטלוני עם דיו קלמארי, זרוע תמנון גליסיאני צלוי ופירות ים, מוגש עם איולי. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "31",
@@ -369,7 +369,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A non-traditional rice with chistorra, Chorizo Iberico, chicken wings, and pork ribs, served with aioli and mead with meat broth. Made with socarrat upon request."
+        "description": "אורז לא מסורתי עם צ'יסטורה, חוריזו איבריקו, כנפי עוף וצלעות חזיר, מוגש עם איולי ומיד עם מרק בשר. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "32",
@@ -381,7 +381,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A non-traditional rice with chistorra, Chorizo Iberico, chicken wings, and pork ribs, served with aioli and mead with meat broth. Made with socarrat upon request."
+        "description": "אורז לא מסורתי עם צ'יסטורה, חוריזו איבריקו, כנפי עוף וצלעות חזיר, מוגש עם איולי ומיד עם מרק בשר. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "33",
@@ -393,7 +393,7 @@
         "seafood": false,
         "vegan": true,
         "meat": false,
-        "description": "A light vegetarian/vegan option made with vegetable broth. Made with socarrat upon request."
+        "description": "אפשרות צמחונית/טבעונית קלה עשויה עם מרק ירקות. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "34",
@@ -405,7 +405,7 @@
         "seafood": false,
         "vegan": true,
         "meat": false,
-        "description": "A light vegetarian/vegan option made with vegetable broth. Made with socarrat upon request."
+        "description": "אפשרות צמחונית/טבעונית קלה עשויה עם מרק ירקות. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "35",
@@ -417,7 +417,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "250 gr Australian Wagyu Ribeye MBS3 cooked to your point, served with a side dish and sauce of your choice. *SAUCES: Black Pepper Red wine & dark chocolate Truffle Sauce Honey mustard Chimichurri *SIDES: Mashed potatoes Fried potatoes Green Salad Sauteed Vegetables"
+        "description": "250 גרם ריבאי וואגיו אוסטרלי MBS3 מבושל לפי נקודת העשייה שלך, מוגש עם תוספת ורוטב לבחירתך. *רטבים: פלפל שחור, יין אדום ושוקולד מריר, רוטב טראפל, חרדל דבש, צ'ימיצ'ורי *תוספות: פירה, תפוחי אדמה מטוגנים, סלט ירוק, ירקות מוקפצים"
     },
     {
         "id": "36",
@@ -429,7 +429,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Wild catch of the day by local fishermen delivered directly to our beach. We served grilled with a side dish and style of your choice. 550.- Sides: Mashed potatoes, fried potatoes, green salad, or grilled vegetables. Choose your style: ‘’japanese’’with Miso-Sake and leek veloute ‘’thai’’ with ‘’neung manao’’ *Limited availability*"
+        "description": "תפיסת היום הפראית של דייגים מקומיים, נמסרת ישירות לחוף שלנו. מוגש צלוי עם תוספת וסגנון לבחירתך. 550.- תוספות: פירה, תפוחי אדמה מטוגנים, סלט ירוק או ירקות צלויים. בחר סגנון: 'יפני' עם מיסו-סאקה וולוט ליקס, 'תאילנדי' עם 'ניונג מאנאו' *זמינות מוגבלת*"
     },
     {
         "id": "37",
@@ -441,7 +441,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Spanish churros with cinnamon and sugar coated, served with hot chocolate sauce."
+        "description": "צ'ורוס ספרדי עם ציפוי קינמון וסוכר, מוגש עם רוטב שוקולד חם."
     },
     {
         "id": "38",
@@ -453,7 +453,7 @@
         "seafood": false,
         "vegan": false,
         "meat": false,
-        "description": "Caramelized soaked brioche, served with ice cream and mango coulis."
+        "description": "בריוש ספוג מקורמל, מוגש עם גלידה וקולי מנגו."
     },
     {
         "id": "35",
@@ -465,7 +465,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "250 gr Australian Wagyu Ribeye MBS3 cooked to your point, served with a side dish and sauce of your choice. *SAUCES: Black Pepper Red wine & dark chocolate Truffle Sauce Honey mustard Chimichurri *SIDES: Mashed potatoes Fried potatoes Green Salad Sauteed Vegetables"
+        "description": "250 גרם ריבאי וואגיו אוסטרלי MBS3 מבושל לפי נקודת העשייה שלך, מוגש עם תוספת ורוטב לבחירתך. *רטבים: פלפל שחור, יין אדום ושוקולד מריר, רוטב טראפל, חרדל דבש, צ'ימיצ'ורי *תוספות: פירה, תפוחי אדמה מטוגנים, סלט ירוק, ירקות מוקפצים"
     },
     {
         "id": "31",
@@ -477,7 +477,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A non-traditional rice with chistorra, Chorizo Iberico, chicken wings, and pork ribs, served with aioli and mead with meat broth. Made with socarrat upon request."
+        "description": "אורז לא מסורתי עם צ'יסטורה, חוריזו איבריקו, כנפי עוף וצלעות חזיר, מוגש עם איולי ומיד עם מרק בשר. נעשה עם סוקאראט לפי בקשה."
     },
     {
         "id": "23",
@@ -489,7 +489,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Thin-crust pizza, with San Marzano tomatoes, Goat cheese, Chorizo Iberico, and red wine onion jam."
+        "description": "פיצה דקה עם עגבניות סן מרצאנו, גבינת עזים, חוריזו איבריקו וריבת בצל ביין אדום."
     },
     {
         "id": "7",
@@ -501,7 +501,7 @@
         "seafood": true,
         "vegan": false,
         "meat": false,
-        "description": "Sauteed shrimps in olive oil, garlic and cayenne pepper, flambeed with white wine and served with garlic chips."
+        "description": "שרימפס מוקפצים בשמן זית, שום ופלפל קאיין, מופלמבים ביין לבן ומוגשים עם שבבי שום."
     },
     {
         "id": "19",
@@ -513,7 +513,7 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "A selection os Spanish ibérico cold cuts with 36months maturation: jamón ibérico, chorizo ibérico, salchichón ibérico and Manchegos cheese semi cured. Served with grapes, walnuts, quince Paste, olives, dried figs and crusty bread."
+        "description": "מבחר נקניקים קרים ספרדיים איבריקו עם 36 חודשי התבגרות: חמון איבריקו, חוריזו איבריקו, סלצ'יצ'ון איבריקו וגבינת מנצ'גו חצי-מיושנת. מוגש עם ענבים, אגוזי מלך, מחית חבושים, זיתים, תאנים מיובשות ולחם קריספי."
     },
     {
         "id": "5",
@@ -525,6 +525,6 @@
         "seafood": false,
         "vegan": false,
         "meat": true,
-        "description": "Refreshing Andalusian tomato cold soup. Served with chopped vegetables and egg, crispy jamón dust (optional) and garlic-parsley oil."
+        "description": "מרק עגבניות אנדלוסי מרענן וקר. מוגש עם ירקות קצוצים וביצה, אבקת חמון פריכה (אופציונלי) ושמן שום-פטרוזיליה."
     }
 ]
