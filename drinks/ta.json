@@ -1,0 +1,128 @@
+[
+    {
+        "id": "1",
+        "title": "Mojito",
+        "price": "160B",
+        "imageUrl": "https",
+        "include": "White rum, lime juice, mint, sugar, soda water",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "2",
+        "title": "Margarita",
+        "price": "161B",
+        "imageUrl": "https",
+        "include": "Tequila, lime juice, triple sec, salt rim",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "3",
+        "title": "Pina Colada",
+        "price": "162B",
+        "imageUrl": "https",
+        "include": "Rum, coconut cream, pineapple juice",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "4",
+        "title": "Long Island",
+        "price": "163B",
+        "imageUrl": "https",
+        "include": "Vodka, gin, rum, tequila, triple sec, cola, lemon",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "5",
+        "title": "Aperol Spritz",
+        "price": "164B",
+        "imageUrl": "https",
+        "include": "Aperol, prosecco, soda water, orange slice",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "6",
+        "title": "Sex on the Beach",
+        "price": "165B",
+        "imageUrl": "https",
+        "include": "Vodka, peach schnapps, orange & cranberry juice",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "7",
+        "title": "Caipirinha",
+        "price": "166B",
+        "imageUrl": "https",
+        "include": "Cachaça, lime, sugar",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "8",
+        "title": "Mai Tai",
+        "price": "167B",
+        "imageUrl": "https",
+        "include": "Rum, lime juice, orgeat, orange liqueur",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "9",
+        "title": "Daiquiri",
+        "price": "168B",
+        "imageUrl": "https",
+        "include": "Rum, lime juice, simple syrup",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "10",
+        "title": "Negroni",
+        "price": "169B",
+        "imageUrl": "https",
+        "include": "Gin, Campari, sweet vermouth, orange peel",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "11",
+        "title": "Espresso Martini",
+        "price": "170B",
+        "imageUrl": "https",
+        "include": "Vodka, coffee liqueur, espresso",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "12",
+        "title": "Sangria Red",
+        "price": "171B",
+        "imageUrl": "https",
+        "include": "Red wine, brandy, fruit, juice, sweetener",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "13",
+        "title": "Sangria White",
+        "price": "172B",
+        "imageUrl": "https",
+        "include": "White wine, citrus, liqueur, soda",
+        "category": "Cocktail",
+        "description": NaN
+    },
+    {
+        "id": "14",
+        "title": "Bloody Mary",
+        "price": "173B",
+        "imageUrl": "https",
+        "include": "Vodka, tomato juice, Worcestershire, hot sauce",
+        "category": "Cocktail",
+        "description": NaN
+    }
+]
